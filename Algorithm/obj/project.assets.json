@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BinarySearchAlgorithm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BinarySearchAlgorithm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearchAlgorithm.dll": {}
+        }
+      },
+      "InsertionSortAlgorithm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InsertionSortAlgorithm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InsertionSortAlgorithm.dll": {}
+        }
+      },
+      "MergeSortAlgorithm/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MergeSortAlgorithm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeSortAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearchAlgorithm/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearchAlgorithm/BinarySearchAlgorithm.csproj",
+      "msbuildProject": "../BinarySearchAlgorithm/BinarySearchAlgorithm.csproj"
+    },
+    "InsertionSortAlgorithm/1.0.0": {
+      "type": "project",
+      "path": "../InsertionSortAlgorithm/InsertionSortAlgorithm.csproj",
+      "msbuildProject": "../InsertionSortAlgorithm/InsertionSortAlgorithm.csproj"
+    },
+    "MergeSortAlgorithm/1.0.0": {
+      "type": "project",
+      "path": "../MergeSortAlgorithm/MergeSortAlgorithm.csproj",
+      "msbuildProject": "../MergeSortAlgorithm/MergeSortAlgorithm.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BinarySearchAlgorithm >= 1.0.0",
+      "InsertionSortAlgorithm >= 1.0.0",
+      "MergeSortAlgorithm >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Buket Burcu Mercan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Buket\\Algorithm\\Algorithm\\Algorithm.csproj",
+      "projectName": "Algorithm",
+      "projectPath": "C:\\Buket\\Algorithm\\Algorithm\\Algorithm.csproj",
+      "packagesPath": "C:\\Users\\Buket Burcu Mercan\\.nuget\\packages\\",
+      "outputPath": "C:\\Buket\\Algorithm\\Algorithm\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Buket Burcu Mercan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Buket\\Algorithm\\BinarySearchAlgorithm\\BinarySearchAlgorithm.csproj": {
+              "projectPath": "C:\\Buket\\Algorithm\\BinarySearchAlgorithm\\BinarySearchAlgorithm.csproj"
+            },
+            "C:\\Buket\\Algorithm\\InsertionSortAlgorithm\\InsertionSortAlgorithm.csproj": {
+              "projectPath": "C:\\Buket\\Algorithm\\InsertionSortAlgorithm\\InsertionSortAlgorithm.csproj"
+            },
+            "C:\\Buket\\Algorithm\\MergeSortAlgorithm\\MergeSortAlgorithm.csproj": {
+              "projectPath": "C:\\Buket\\Algorithm\\MergeSortAlgorithm\\MergeSortAlgorithm.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

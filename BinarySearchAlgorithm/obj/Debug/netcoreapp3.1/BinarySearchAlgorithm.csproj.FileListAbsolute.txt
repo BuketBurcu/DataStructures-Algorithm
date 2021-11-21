@@ -1,0 +1,9 @@
+C:\Buket\Algorithm\BinarySearchAlgorithm\bin\Debug\netcoreapp3.1\BinarySearchAlgorithm.deps.json
+C:\Buket\Algorithm\BinarySearchAlgorithm\bin\Debug\netcoreapp3.1\BinarySearchAlgorithm.dll
+C:\Buket\Algorithm\BinarySearchAlgorithm\bin\Debug\netcoreapp3.1\BinarySearchAlgorithm.pdb
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.csprojAssemblyReference.cache
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.AssemblyInfoInputs.cache
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.AssemblyInfo.cs
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.dll
+C:\Buket\Algorithm\BinarySearchAlgorithm\obj\Debug\netcoreapp3.1\BinarySearchAlgorithm.pdb

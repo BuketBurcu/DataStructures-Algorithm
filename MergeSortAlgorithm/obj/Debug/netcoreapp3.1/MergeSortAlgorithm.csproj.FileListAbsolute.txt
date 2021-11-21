@@ -1,0 +1,9 @@
+C:\Buket\Algorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.deps.json
+C:\Buket\Algorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.dll
+C:\Buket\Algorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.pdb
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.csprojAssemblyReference.cache
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.AssemblyInfoInputs.cache
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.AssemblyInfo.cs
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.dll
+C:\Buket\Algorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.pdb

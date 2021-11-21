@@ -1,0 +1,9 @@
+C:\Buket\Algorithm\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.deps.json
+C:\Buket\Algorithm\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.dll
+C:\Buket\Algorithm\InsertionSortAlgorithm\bin\Debug\netcoreapp3.1\InsertionSortAlgorithm.pdb
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.csprojAssemblyReference.cache
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.AssemblyInfo.cs
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.dll
+C:\Buket\Algorithm\InsertionSortAlgorithm\obj\Debug\netcoreapp3.1\InsertionSortAlgorithm.pdb

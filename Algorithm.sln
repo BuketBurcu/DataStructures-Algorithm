@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algorithm.csproj", "{EE23B7A6-E5C5-47C0-B0C1-FA9F3E2C8E61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSortAlgorithm", "InsertionSortAlgorithm\InsertionSortAlgorithm.csproj", "{FD7D6081-5B5E-4153-8626-B437F4A71DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortAlgorithm", "MergeSortAlgorithm\MergeSortAlgorithm.csproj", "{9478179D-1F8A-497D-A111-7FC037CD3E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchAlgorithm", "BinarySearchAlgorithm\BinarySearchAlgorithm.csproj", "{D1F976A6-E4D5-486D-8BBE-A39148F8E586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE23B7A6-E5C5-47C0-B0C1-FA9F3E2C8E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE23B7A6-E5C5-47C0-B0C1-FA9F3E2C8E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE23B7A6-E5C5-47C0-B0C1-FA9F3E2C8E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE23B7A6-E5C5-47C0-B0C1-FA9F3E2C8E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7D6081-5B5E-4153-8626-B437F4A71DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7D6081-5B5E-4153-8626-B437F4A71DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7D6081-5B5E-4153-8626-B437F4A71DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7D6081-5B5E-4153-8626-B437F4A71DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9478179D-1F8A-497D-A111-7FC037CD3E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9478179D-1F8A-497D-A111-7FC037CD3E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9478179D-1F8A-497D-A111-7FC037CD3E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9478179D-1F8A-497D-A111-7FC037CD3E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F976A6-E4D5-486D-8BBE-A39148F8E586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F976A6-E4D5-486D-8BBE-A39148F8E586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F976A6-E4D5-486D-8BBE-A39148F8E586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F976A6-E4D5-486D-8BBE-A39148F8E586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6531F914-419F-4CD1-AA3D-278A4ABA35F5}
+	EndGlobalSection
+EndGlobal
